@@ -12,7 +12,7 @@ class VinDecoder(DbManager):
 		self._vin_dict_list = []
 
 	def _enrich_vin_list(self):
-		query_response = (self.select_query('select vin from carvana_cars limit'))
+		query_response = (self.select_query('select vin from carvana_cars'))
 		query_response = [item[0] for item in query_response]
 		return query_response
 
