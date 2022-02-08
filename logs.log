@@ -1,0 +1,6 @@
+2022-02-08 at 21:54:51 | SUCCESS | Successfully fetched info from DB
+2022-02-08 at 21:54:51 | DEBUG | Start proccessing vin codes
+2022-02-08 at 21:55:24 | DEBUG | Start writing data to DB
+2022-02-08 at 21:55:26 | SUCCESS | Data successfully added to DB
+2022-02-08 at 21:55:26 | SUCCESS | Successfully processed 500 vin codes
+2022-02-08 at 21:55:26 | INFO | Function executed in 35.117928981781006 seconds
